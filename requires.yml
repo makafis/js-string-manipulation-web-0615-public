@@ -1,7 +1,7 @@
 javascripts:
   files:
-    - lib/encoder.js
-    - lib/decoder.js
+    - lib/1-encoder.js
+    - lib/2-decoder.js
   specs:
     - spec/1-encoder.spec.js
     - spec/2-decoder.spec.js
